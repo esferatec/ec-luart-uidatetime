@@ -10,15 +10,15 @@ It has been designed to simplify and improve the creation of graphical user inte
 The module provides the following extension objects:
 
 | Name | Description |
-| --- | --- | --- |
-| DayLabel | Represents a label control that display a day. | uidatetime.lua
-| DaynameLabel | Represents a label control that display a dayname. | uidatetime.lua
-| DaynumberLabel | Represents a label control that display a daynumber. | uidatetime.lua
-| MonthLabel | Represents a label control that display a month. | uidatetime.lua
-| MonthnameLabel | Represents a label control that display a monthname. | uidatetime.lua
-| MonthnumberLabel | Represents a label control that display a monthnumber. | uidatetime.lua
-| WeeknumberLabel | Represents a label control that display a weeknumber. | uidatetime.lua
-| YearLabel | Represents a label control that display a year. | uidatetime.lua
+| --- | --- |
+| DayLabel | Represents a label control that display a day. |
+| DaynameLabel | Represents a label control that display a dayname. |
+| DaynumberLabel | Represents a label control that display a daynumber. |
+| MonthLabel | Represents a label control that display a month. |
+| MonthnameLabel | Represents a label control that display a monthname. |
+| MonthnumberLabel | Represents a label control that display a monthnumber. |
+| WeeknumberLabel | Represents a label control that display a weeknumber. |
+| YearLabel | Represents a label control that display a year. |
 
 More detailed descriptions and usage examples can be found in the docs folder.
 
