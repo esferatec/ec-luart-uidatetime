@@ -9,9 +9,8 @@ It has been designed to simplify and improve the creation of graphical user inte
 
 The module provides the following extension objects:
 
-| Name | Description | Module |
+| Name | Description |
 | --- | --- | --- |
-
 | DayLabel | Represents a label control that display a day. | uidatetime.lua
 | DaynameLabel | Represents a label control that display a dayname. | uidatetime.lua
 | DaynumberLabel | Represents a label control that display a daynumber. | uidatetime.lua
